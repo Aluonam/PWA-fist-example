@@ -1,12 +1,12 @@
 {
     "theme_color": "#000000",
-    "background_color": "#000000",
-    "display": "browser",
+    "background_color": "#858585",
+    "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
-    "name": "my-first-pwa",
-    "short_name": "first-pwa",
-    "description": "first example use PWA",
+    "name": "Example PWA Name",
+    "short_name": "e-PWA",
+    "description": "PWA de ejemplo",
     "icons": [
         {
             "src": "/icon-192x192.png",
